@@ -1,0 +1,16 @@
+#div{
+    display: flex;
+    gap: 5px;
+ 
+}
+
+p{
+    font-size: 20px;
+}
+
+button{
+
+    width: 50px;
+    margin: 5px;
+    background-color: yellowgreen;
+}
